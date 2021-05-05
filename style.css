@@ -395,7 +395,7 @@ span {
         .heading-2{font-size: 1em;}
         .col-4 span{width: 20%;}
         .col-6 a{width: 100px;}
-        
+        .col-6 a{width: 100px;}
         }
 
 @media screen and (max-device-width: 360px) {
